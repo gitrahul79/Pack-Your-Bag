@@ -4,7 +4,6 @@ Welcome to Pack Your Bags, a travel website crafted to help you to embark on ext
 Pack Your Bags is an open-source project; we welcome you to explore its codebase and contribute irrespective of whether you're a seasoned developer or just a beginner. Pack Your Bags serves as a valuable learning tool to hone your skills and expand your creativity <br />
 
 -*Unzip and Explore:* Download the provided .zip file, extract the contents, and open index.html in the web browser of choice to experience Pack Your Bags firsthand.
--*Live Demo:* Alternatively, get a glimpse of Pack Your Bags in action by visiting our live demo at my [Github Repository](https://github.com/Rahul Sharma/Pack-Your-Bags.git). <br/>
 
 <div align="center">
   <br />
